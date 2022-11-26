@@ -14,7 +14,7 @@ import android.os.Build;
 
 import androidx.annotation.RequiresApi;
 
-import numan.dev.videocompressor.codecinputsurface.CodecInputSurface;
+import com.palam.videocompressor.codecinputsurface.CodecInputSurface;
 import java.io.File;
 import java.io.IOException;
 import java.nio.ByteBuffer;
